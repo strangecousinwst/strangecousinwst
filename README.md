@@ -1,4 +1,4 @@
-## Hi there 👋
+## Nothing, just hanging around
 
 <!--
 **strangecousinwst/strangecousinwst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
