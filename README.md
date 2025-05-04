@@ -1,5 +1,5 @@
 📜 "Nothing, just hanging around"\n \
-📜 "Postgres is better than Tailwind"\n \
+📜 "Postgres is better than Tailwind"\n
 
 <!--
 **strangecousinwst/strangecousinwst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
